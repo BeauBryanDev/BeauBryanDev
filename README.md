@@ -1,8 +1,19 @@
+# Welcome to My GitHub Profile!
+
 - 👋 Hi, I’m @BeauBryanDev
+
+![Build Status](https://img.shields.io/github/workflow/status/BeauBryanDev/PlayGround/CI)
+![Coverage](https://img.shields.io/codecov/c/github/BeauBryanDev/PlayGround)
+![License](https://img.shields.io/github/license/BeauBryanDev/PlayGround)
+![Downloads](https://img.shields.io/github/downloads/BeauBryanDev/PlayGround/total)
+
 ---
 ### About mee :
 
-- My name is **Bryan David **
+My name is ** Bryan David **
+
+I am a passionate developer focused on algorithms and data structures. I love to solve problems and contribute to open-source projects.
+
 - **Location**  <a href="https://www.google.com/maps/search/bogot%C3%A1/@4.6486259,-74.2478946,11z" target="_blank">Bogotá, Colombia</a> 🇨🇴 ;
 - **EamilAddress** [ bryan.beau.186@gmail.com](mailto:bryan.beau.186@gmail.com ) ;
 - 👀 I’m interested in WebProgramming, ComputerS Netowrks, CyberSec and Data_Science.
@@ -50,9 +61,18 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/beauBryanDev/PlayGround?style=social)
 
+## Projects
+- [PlayGround](https://github.com/BeauBryanDev/PlayGround): A repository of programming exercises and algorithms.
 
+- [MoviesApp](https://github.com/BeauBryanDev/myMovieApp): Project to fetch and show Movies from theMovies API withing REST API showscase.
+
+- [BeastsGame](https://github.com/BeauBryanDev/beastGame): Game Project in Development, It aims to be a tiny game to fight chosen creatures agains the machine on the Web Browser. 
 
 <!---
 BeauBryanDev/BeauBryanDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/beaubryandev)
+- [Twitter](https://twitter.com/BeauBryanDev)
+
