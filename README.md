@@ -11,14 +11,21 @@ About Me .
 :eyesglasses: **Geek on Computer Scences**
 :eyesglasses: **Geek on CyberSecurity Subjects**
 
-### See More 
+## See More 
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fbeabu.lapithel.com%2Fmee)
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/BeauBryanDev/beastGame)
 
-![Top Langs](https://img.shields.io/github/languages/top/BeauBryanDev/PlayGround)
+
+![GitHub top language](https://img.shields.io/github/languages/top/BryanBeauBoy/PlayGround)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/BeauBryanDev/PlayGround)
+
+![GitHub stars](https://img.shields.io/github/stars/beauBryanDev/PlayGround?style=social)
+
+
 
 <!---
 BeauBryanDev/BeauBryanDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
