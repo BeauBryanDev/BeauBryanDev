@@ -10,7 +10,7 @@
 ---
 ### About mee :
 
-My name is ** Bryan David **
+My name is **Bryan David**
 
 I am a passionate developer focused on algorithms and data structures. I love to solve problems and contribute to open-source projects.
 
