@@ -25,9 +25,9 @@ I am a passionate developer focused on algorithms and data structures. I love to
 
 ## It is @Mee :
 
-:computer: **Software Engineer in Progress**
-:eyesglasses: **Geek on Computer Scences**
-:eyesglasses: **Geek on CyberSecurity Subjects**
+**Software Engineer in Progress**
+**Geek on Computer Scences**
+**Geek on CyberSecurity Subjects**
 
 ## See More [Bellow]
 
