@@ -74,10 +74,12 @@ I am a passionate developer focused on algorithms and data structures. I love to
 
 ![GitHub stars](https://img.shields.io/github/stars/beauBryanDev/PlayGround?style=social)
 ---
-
+<!--Here is to Display my foresmost recent Activiy over my Profile README -->
 ## Recent Activity 
 
-<!--Here is to Display my foresmost recent Activiy over my Profile README -->
+<!--RECENT_ACTIVITY:start--> 
+<!-- RECENT_ACTIVITY:last_update -->
+
 
 ## Projects
 - [PlayGround](https://github.com/BeauBryanDev/PlayGround): A repository of programming exercises and algorithms.
