@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ❗️ Opened issue [#6](https://github.com/BeauBryanDev/beastGame/issues/6) in [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
-2. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
-3. ⬆️ Pushed 4 commit(s) to [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
-4. ✔️ Closed issue [#3](https://github.com/BeauBryanDev/beastGame/issues/3) in [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
-5. ⭐ Starred [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app)<br>
+1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
+2. ❗️ Opened issue [#6](https://github.com/BeauBryanDev/beastGame/issues/6) in [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
+3. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
+4. ⬆️ Pushed 4 commit(s) to [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
+5. ✔️ Closed issue [#3](https://github.com/BeauBryanDev/beastGame/issues/3) in [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
