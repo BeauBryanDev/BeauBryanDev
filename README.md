@@ -78,9 +78,10 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
+1. 📔 Created new repository [BeauBryanDev/menus](https://github.com/BeauBryanDev/menus)<br>
 2. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
 3. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
+4. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
