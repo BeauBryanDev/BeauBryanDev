@@ -78,8 +78,8 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/Dark_Warrior](https://github.com/BeauBryanDev/Dark_Warrior)<br>
-2. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/Dark_Warrior](https://github.com/BeauBryanDev/Dark_Warrior)<br>
+1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/portfolio](https://github.com/BeauBryanDev/portfolio)<br>
+2. 📔 Created new repository [BeauBryanDev/portfolio](https://github.com/BeauBryanDev/portfolio)<br>
 3. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/Dark_Warrior](https://github.com/BeauBryanDev/Dark_Warrior)<br>
 4. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/Dark_Warrior](https://github.com/BeauBryanDev/Dark_Warrior)<br>
 5. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/Dark_Warrior](https://github.com/BeauBryanDev/Dark_Warrior)<br>
