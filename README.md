@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/portfolio](https://github.com/BeauBryanDev/portfolio)<br>
-2. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)<br>
-3. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
-4. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/portfolio](https://github.com/BeauBryanDev/portfolio)<br>
-5. 📔 Created new repository [BeauBryanDev/portfolio](https://github.com/BeauBryanDev/portfolio)<br>
+1. ⭐ Starred [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)<br>
+2. ⭐ Starred [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)<br>
+3. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/portfolio](https://github.com/BeauBryanDev/portfolio)<br>
+4. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)<br>
+5. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
