@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/Beau_Portfolio](https://github.com/BeauBryanDev/Beau_Portfolio)<br>
-2. ⭐ Starred [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)<br>
-3. ⭐ Starred [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)<br>
-4. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/portfolio](https://github.com/BeauBryanDev/portfolio)<br>
-5. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)<br>
+1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/JS_Excercises](https://github.com/BeauBryanDev/JS_Excercises)<br>
+2. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/JS_Excercises](https://github.com/BeauBryanDev/JS_Excercises)<br>
+3. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/Beau_Portfolio](https://github.com/BeauBryanDev/Beau_Portfolio)<br>
+4. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/Beau_Portfolio](https://github.com/BeauBryanDev/Beau_Portfolio)<br>
+5. ⭐ Starred [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
