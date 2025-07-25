@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/JS_Excercises](https://github.com/BeauBryanDev/JS_Excercises)<br>
+1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/Dark_Warrior](https://github.com/BeauBryanDev/Dark_Warrior)<br>
 2. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/JS_Excercises](https://github.com/BeauBryanDev/JS_Excercises)<br>
 3. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/JS_Excercises](https://github.com/BeauBryanDev/JS_Excercises)<br>
 4. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/JS_Excercises](https://github.com/BeauBryanDev/JS_Excercises)<br>
-5. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/Beau_Portfolio](https://github.com/BeauBryanDev/Beau_Portfolio)<br>
+5. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/JS_Excercises](https://github.com/BeauBryanDev/JS_Excercises)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
