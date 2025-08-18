@@ -82,7 +82,6 @@ I am a passionate developer focused on algorithms and data structures. I love to
 2. ⭐ Starred [mdn/web-components-examples](https://github.com/mdn/web-components-examples)<br>
 3. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/Dark_Warrior](https://github.com/BeauBryanDev/Dark_Warrior)<br>
 4. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/JS_Excercises](https://github.com/BeauBryanDev/JS_Excercises)<br>
-5. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/JS_Excercises](https://github.com/BeauBryanDev/JS_Excercises)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
