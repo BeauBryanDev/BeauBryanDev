@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/localBackBox](https://github.com/BeauBryanDev/localBackBox)<br>
-2. ⬆️ Pushed 2 commit(s) to [BeauBryanDev/localBackBox](https://github.com/BeauBryanDev/localBackBox)<br>
+1. ⬆️ Pushed 2 commit(s) to [BeauBryanDev/localBackBox](https://github.com/BeauBryanDev/localBackBox)<br>
+2. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/localBackBox](https://github.com/BeauBryanDev/localBackBox)<br>
 3. ⬆️ Pushed 2 commit(s) to [BeauBryanDev/localBackBox](https://github.com/BeauBryanDev/localBackBox)<br>
-4. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/localBackBox](https://github.com/BeauBryanDev/localBackBox)<br>
-5. 🔱 Forked [BeauBryanDev/web-components-examples](https://github.com/BeauBryanDev/web-components-examples) from [mdn/web-components-examples](https://github.com/mdn/web-components-examples)<br>
+4. ⬆️ Pushed 2 commit(s) to [BeauBryanDev/localBackBox](https://github.com/BeauBryanDev/localBackBox)<br>
+5. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/localBackBox](https://github.com/BeauBryanDev/localBackBox)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
