@@ -80,9 +80,9 @@ I am a passionate developer focused on algorithms and data structures. I love to
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
 2. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
-3. ⬆️ Pushed 3 commit(s) to [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
-4. 📔 Created new repository [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
-5. ⬆️ Pushed 2 commit(s) to [BeauBryanDev/localBackBox](https://github.com/BeauBryanDev/localBackBox)<br>
+3. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
+4. ⬆️ Pushed 3 commit(s) to [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
+5. 📔 Created new repository [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
