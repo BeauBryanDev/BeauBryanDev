@@ -78,7 +78,7 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
+1. ⬆️ Pushed 2 commit(s) to [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
 2. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
 3. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
 4. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/self-project-portfolio](https://github.com/BeauBryanDev/self-project-portfolio)<br>
