@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/GameStream](https://github.com/BeauBryanDev/GameStream)<br>
-2. 📔 Created new repository [BeauBryanDev/GameStream](https://github.com/BeauBryanDev/GameStream)<br>
-3. ⭐ Starred [faker-js/faker](https://github.com/faker-js/faker)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/GameStream](https://github.com/BeauBryanDev/GameStream)<br>
+2. ⭐ Starred [faker-js/faker](https://github.com/faker-js/faker)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/dc-project-template](https://github.com/BeauBryanDev/dc-project-template)<br>
 4. ⭐ Starred [GoogleChromeLabs/pwa-workshop-codelab](https://github.com/GoogleChromeLabs/pwa-workshop-codelab)<br>
-5. ⬆️ Pushed 1 commit(s) to [BeauBryanDev/randomUser](https://github.com/BeauBryanDev/randomUser)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/randomUser](https://github.com/BeauBryanDev/randomUser)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
