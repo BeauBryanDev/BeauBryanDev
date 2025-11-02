@@ -81,7 +81,6 @@ I am a passionate developer focused on algorithms and data structures. I love to
 1. ⭐ Starred [fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/GameStream](https://github.com/BeauBryanDev/GameStream)<br>
 3. ⭐ Starred [faker-js/faker](https://github.com/faker-js/faker)<br>
-4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/dc-project-template](https://github.com/BeauBryanDev/dc-project-template)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
