@@ -78,7 +78,7 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. 🔱 Forked [BeauBryanDev/juice-shop_assests](https://github.com/BeauBryanDev/juice-shop_assests) from [BeauBryanDev/juice-shop_assests](https://github.com/BeauBryanDev/juice-shop_assests)<br>
+1. 🔱 Forked [BeauBryanDev/juice-shop_assests](https://github.com/BeauBryanDev/juice-shop_assests) from [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)<br>
 2. ⭐ Starred [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)<br>
 3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/get2GHActions](https://github.com/BeauBryanDev/get2GHActions)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/get2GHActions](https://github.com/BeauBryanDev/get2GHActions)<br>
