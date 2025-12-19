@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)<br>
-2. 🔱 Forked [BeauBryanDev/TensorFlow_PlayGround](https://github.com/BeauBryanDev/TensorFlow_PlayGround) from [tensorflow/playground](https://github.com/tensorflow/playground)<br>
-3. ⭐ Starred [tensorflow/playground](https://github.com/tensorflow/playground)<br>
-4. 🔱 Forked [BeauBryanDev/mml-book.github.io](https://github.com/BeauBryanDev/mml-book.github.io) from [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io)<br>
-5. ⭐ Starred [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io)<br>
+1. 🔱 Forked [BeauBryanDev/keras_models](https://github.com/BeauBryanDev/keras_models) from [keras-team/keras](https://github.com/keras-team/keras)<br>
+2. ⭐ Starred [keras-team/keras](https://github.com/keras-team/keras)<br>
+3. ⭐ Starred [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)<br>
+4. 🔱 Forked [BeauBryanDev/TensorFlow_PlayGround](https://github.com/BeauBryanDev/TensorFlow_PlayGround) from [tensorflow/playground](https://github.com/tensorflow/playground)<br>
+5. ⭐ Starred [tensorflow/playground](https://github.com/tensorflow/playground)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
