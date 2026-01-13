@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [platzi/convolucionales](https://github.com/platzi/convolucionales)<br>
-2. ⭐ Starred [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)<br>
-3. ⭐ Starred [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)<br>
-4. 🔱 Forked [BeauBryanDev/keras_models](https://github.com/BeauBryanDev/keras_models) from [keras-team/keras](https://github.com/keras-team/keras)<br>
-5. ⭐ Starred [keras-team/keras](https://github.com/keras-team/keras)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/coffee_shop](https://github.com/BeauBryanDev/coffee_shop)<br>
+2. ⭐ Starred [platzi/convolucionales](https://github.com/platzi/convolucionales)<br>
+3. ⭐ Starred [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)<br>
+4. ⭐ Starred [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)<br>
+5. 🔱 Forked [BeauBryanDev/keras_models](https://github.com/BeauBryanDev/keras_models) from [keras-team/keras](https://github.com/keras-team/keras)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
