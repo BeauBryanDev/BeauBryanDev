@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/coffee_shop](https://github.com/BeauBryanDev/coffee_shop)<br>
-2. ⭐ Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/coffee_shop](https://github.com/BeauBryanDev/coffee_shop)<br>
-4. ⭐ Starred [platzi/convolucionales](https://github.com/platzi/convolucionales)<br>
-5. ⭐ Starred [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)<br>
+1. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/coffee_shop](https://github.com/BeauBryanDev/coffee_shop)<br>
+3. ⭐ Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/coffee_shop](https://github.com/BeauBryanDev/coffee_shop)<br>
+5. ⭐ Starred [platzi/convolucionales](https://github.com/platzi/convolucionales)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
