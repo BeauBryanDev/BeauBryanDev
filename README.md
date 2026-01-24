@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [explosion/spacy-layout](https://github.com/explosion/spacy-layout)<br>
-2. ⭐ Starred [willxie/hmm-vs-memm](https://github.com/willxie/hmm-vs-memm)<br>
-3. ⭐ Starred [platzi/webscraping](https://github.com/platzi/webscraping)<br>
-4. ⭐ Starred [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza)<br>
-5. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
+1. ⭐ Starred [platzi/Mlops-platzi](https://github.com/platzi/Mlops-platzi)<br>
+2. ⭐ Starred [explosion/spacy-layout](https://github.com/explosion/spacy-layout)<br>
+3. ⭐ Starred [willxie/hmm-vs-memm](https://github.com/willxie/hmm-vs-memm)<br>
+4. ⭐ Starred [platzi/webscraping](https://github.com/platzi/webscraping)<br>
+5. ⭐ Starred [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
