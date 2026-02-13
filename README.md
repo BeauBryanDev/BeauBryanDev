@@ -80,7 +80,7 @@ I am a passionate developer focused on algorithms and data structures. I love to
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
+3. ✔️ Closed issue [#1](https://github.com/BeauBryanDev/AppleDetection/issues/1) in [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
 5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
 <!--RECENT_ACTIVITY:end-->
