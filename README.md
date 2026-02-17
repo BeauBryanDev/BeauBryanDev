@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
-4. ❗️ Opened issue [#2](https://github.com/BeauBryanDev/AppleDetection/issues/2) in [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
-5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+2. ⭐ Starred [sb-ai-lab/EmotiEffLib](https://github.com/sb-ai-lab/EmotiEffLib)<br>
+3. ⭐ Starred [av-savchenko/hsemotion](https://github.com/av-savchenko/hsemotion)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
