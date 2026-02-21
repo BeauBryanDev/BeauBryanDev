@@ -79,10 +79,10 @@ I am a passionate developer focused on algorithms and data structures. I love to
 
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
-5. 💬 Commented on [#4](https://github.com/BeauBryanDev/beastGame/issues/4#issuecomment-3930812803) in [BeauBryanDev/beastGame](https://github.com/BeauBryanDev/beastGame)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
