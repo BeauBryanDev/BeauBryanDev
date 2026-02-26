@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
-4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
-5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
+1. ✔️ Closed issue [#3](https://github.com/BeauBryanDev/AppleDetection/issues/3) in [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
+2. ❗️ Opened issue [#8](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/8) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+3. ❗️ Opened issue [#7](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/7) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+4. ❗️ Opened issue [#6](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/6) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+5. ❗️ Opened issue [#5](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/5) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
