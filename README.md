@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ✔️ Closed issue [#1](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/1) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
-2. 💬 Commented on [#1](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/1#issuecomment-3976270839) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
-3. ✔️ Closed issue [#2](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/2) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
-4. 💬 Commented on [#2](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/2#issuecomment-3976269337) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
-5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+3. ✔️ Closed issue [#1](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/1) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+4. 💬 Commented on [#1](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/1#issuecomment-3976270839) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+5. ✔️ Closed issue [#2](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/2) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
