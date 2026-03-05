@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ❗️ Opened issue [#9](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/9) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
 3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
-5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
+5. ❗️ Opened issue [#9](https://github.com/BeauBryanDev/FaceEmotionTrackAI/issues/9) in [BeauBryanDev/FaceEmotionTrackAI](https://github.com/BeauBryanDev/FaceEmotionTrackAI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
