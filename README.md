@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. 📖 Created new wiki page [Frotnend-docs](https://github.com/BeauBryanDev/Emotitron/wiki/Frotnend-docs) in [BeauBryanDev/Emotitron](https://github.com/BeauBryanDev/Emotitron)<br>
-2. 📖 Created new wiki page [API-Reference](https://github.com/BeauBryanDev/Emotitron/wiki/API-Reference) in [BeauBryanDev/Emotitron](https://github.com/BeauBryanDev/Emotitron)<br>
-3. 📖 Created new wiki page [Analytics-Deep-Dive](https://github.com/BeauBryanDev/Emotitron/wiki/Analytics-Deep-Dive) in [BeauBryanDev/Emotitron](https://github.com/BeauBryanDev/Emotitron)<br>
-4. 📖 Created new wiki page [User-Guide](https://github.com/BeauBryanDev/Emotitron/wiki/User-Guide) in [BeauBryanDev/Emotitron](https://github.com/BeauBryanDev/Emotitron)<br>
-5. 📖 Created new wiki page [Installation-Guide](https://github.com/BeauBryanDev/Emotitron/wiki/Installation-Guide) in [BeauBryanDev/Emotitron](https://github.com/BeauBryanDev/Emotitron)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Emotitron](https://github.com/BeauBryanDev/Emotitron)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Emotitron](https://github.com/BeauBryanDev/Emotitron)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Emotitron](https://github.com/BeauBryanDev/Emotitron)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Emotitron](https://github.com/BeauBryanDev/Emotitron)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Emotitron](https://github.com/BeauBryanDev/Emotitron)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
