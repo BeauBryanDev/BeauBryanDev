@@ -78,8 +78,8 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Academic_Repo](https://github.com/BeauBryanDev/Academic_Repo)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/carsrecong](https://github.com/BeauBryanDev/carsrecong)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/carsrecong](https://github.com/BeauBryanDev/carsrecong)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Academic_Repo](https://github.com/BeauBryanDev/Academic_Repo)<br>
 3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/carsrecong](https://github.com/BeauBryanDev/carsrecong)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/carsrecong](https://github.com/BeauBryanDev/carsrecong)<br>
 5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/carsrecong](https://github.com/BeauBryanDev/carsrecong)<br>
