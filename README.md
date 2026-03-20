@@ -82,7 +82,7 @@ I am a passionate developer focused on algorithms and data structures. I love to
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/potholed](https://github.com/BeauBryanDev/potholed)<br>
 3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/potholed](https://github.com/BeauBryanDev/potholed)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/potholed](https://github.com/BeauBryanDev/potholed)<br>
-5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/carsrecong](https://github.com/BeauBryanDev/carsrecong)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/potholed](https://github.com/BeauBryanDev/potholed)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
