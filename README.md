@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [TheAlgorithms/C](https://github.com/TheAlgorithms/C)<br>
-2. ⭐ Starred [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/GeoCrackVision](https://github.com/BeauBryanDev/GeoCrackVision)<br>
-4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
-5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
+1. ❗️ Opened issue [#5](https://github.com/BeauBryanDev/Sphinx/issues/5) in [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
+2. ❗️ Opened issue [#4](https://github.com/BeauBryanDev/Sphinx/issues/4) in [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
+3. ❗️ Opened issue [#3](https://github.com/BeauBryanDev/Sphinx/issues/3) in [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
+4. ❗️ Opened issue [#2](https://github.com/BeauBryanDev/Sphinx/issues/2) in [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
+5. ❗️ Opened issue [#1](https://github.com/BeauBryanDev/Sphinx/issues/1) in [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
