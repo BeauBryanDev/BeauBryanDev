@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AegisSentinel-Net](https://github.com/BeauBryanDev/AegisSentinel-Net)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
-3. ❗️ Opened issue [#10](https://github.com/BeauBryanDev/AegisSentinel-Net/issues/10) in [BeauBryanDev/AegisSentinel-Net](https://github.com/BeauBryanDev/AegisSentinel-Net)<br>
-4. ❗️ Opened issue [#7](https://github.com/BeauBryanDev/GeoCrackVision/issues/7) in [BeauBryanDev/GeoCrackVision](https://github.com/BeauBryanDev/GeoCrackVision)<br>
-5. ❗️ Opened issue [#6](https://github.com/BeauBryanDev/GeoCrackVision/issues/6) in [BeauBryanDev/GeoCrackVision](https://github.com/BeauBryanDev/GeoCrackVision)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
+4. ❗️ Opened issue [#10](https://github.com/BeauBryanDev/AegisSentinel-Net/issues/10) in [BeauBryanDev/AegisSentinel-Net](https://github.com/BeauBryanDev/AegisSentinel-Net)<br>
+5. ❗️ Opened issue [#7](https://github.com/BeauBryanDev/GeoCrackVision/issues/7) in [BeauBryanDev/GeoCrackVision](https://github.com/BeauBryanDev/GeoCrackVision)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
