@@ -79,10 +79,10 @@ I am a passionate developer focused on algorithms and data structures. I love to
 
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-safe-work](https://github.com/BeauBryanDev/aegis-safe-work)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-traffic-sentinel](https://github.com/BeauBryanDev/aegis-traffic-sentinel)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-safe-work](https://github.com/BeauBryanDev/aegis-safe-work)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-traffic-sentinel](https://github.com/BeauBryanDev/aegis-traffic-sentinel)<br>
-5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-traffic-sentinel](https://github.com/BeauBryanDev/aegis-traffic-sentinel)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
