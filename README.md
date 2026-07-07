@@ -78,8 +78,8 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-scryer](https://github.com/BeauBryanDev/aegis-scryer)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-scryer](https://github.com/BeauBryanDev/aegis-scryer)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
 3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-safe-work](https://github.com/BeauBryanDev/aegis-safe-work)<br>
 4. ✔️ Closed issue [#3](https://github.com/BeauBryanDev/safe-env/issues/3) in [BeauBryanDev/safe-env](https://github.com/BeauBryanDev/safe-env)<br>
 5. ✔️ Closed issue [#2](https://github.com/BeauBryanDev/safe-env/issues/2) in [BeauBryanDev/safe-env](https://github.com/BeauBryanDev/safe-env)<br>
