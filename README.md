@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-safe-work](https://github.com/BeauBryanDev/aegis-safe-work)<br>
-4. ✔️ Closed issue [#3](https://github.com/BeauBryanDev/safe-env/issues/3) in [BeauBryanDev/safe-env](https://github.com/BeauBryanDev/safe-env)<br>
-5. ✔️ Closed issue [#2](https://github.com/BeauBryanDev/safe-env/issues/2) in [BeauBryanDev/safe-env](https://github.com/BeauBryanDev/safe-env)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-river-sentinel](https://github.com/BeauBryanDev/aegis-river-sentinel)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
+3. ✔️ Closed issue [#8](https://github.com/BeauBryanDev/aegis-safe-road/issues/8) in [BeauBryanDev/aegis-safe-road](https://github.com/BeauBryanDev/aegis-safe-road)<br>
+4. ✔️ Closed issue [#7](https://github.com/BeauBryanDev/aegis-safe-road/issues/7) in [BeauBryanDev/aegis-safe-road](https://github.com/BeauBryanDev/aegis-safe-road)<br>
+5. ✔️ Closed issue [#6](https://github.com/BeauBryanDev/aegis-safe-road/issues/6) in [BeauBryanDev/aegis-safe-road](https://github.com/BeauBryanDev/aegis-safe-road)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
