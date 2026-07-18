@@ -78,10 +78,10 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis_cyber_guard](https://github.com/BeauBryanDev/aegis_cyber_guard)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-poultry-vision](https://github.com/BeauBryanDev/aegis-poultry-vision)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-river-sentinel](https://github.com/BeauBryanDev/aegis-river-sentinel)<br>
-4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-safe-work](https://github.com/BeauBryanDev/aegis-safe-work)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis_cyber_guard](https://github.com/BeauBryanDev/aegis_cyber_guard)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-poultry-vision](https://github.com/BeauBryanDev/aegis-poultry-vision)<br>
 5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-river-sentinel](https://github.com/BeauBryanDev/aegis-river-sentinel)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
