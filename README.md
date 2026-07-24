@@ -78,11 +78,11 @@ I am a passionate developer focused on algorithms and data structures. I love to
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis_art_atelier](https://github.com/BeauBryanDev/aegis_art_atelier)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
-3. 💬 Commented on [#1](https://github.com/BeauBryanDev/Itaca_capstone_project/pull/1#issuecomment-5027026682) in [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
-4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Sphinx](https://github.com/BeauBryanDev/Sphinx)<br>
-5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis_art_atelier](https://github.com/BeauBryanDev/aegis_art_atelier)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis_art_atelier](https://github.com/BeauBryanDev/aegis_art_atelier)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
+5. 💬 Commented on [#1](https://github.com/BeauBryanDev/Itaca_capstone_project/pull/1#issuecomment-5027026682) in [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
 <!--RECENT_ACTIVITY:end-->
 <!-- RECENT_ACTIVITY:last_update -->
 
