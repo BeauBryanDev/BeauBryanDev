@@ -4,12 +4,14 @@
 
 ### AI / Computer Vision Engineer | Junior AI Software Engineer
 
-Building production-grade computer vision and deep learning systems — from dataset curation and model training to full-stack deployment.
+Hi There!, This is Bryan David,  I m building production-grade computer vision and deep learning systems — from dataset curation and model training to full-stack deployment.
 Currently exploring LLM fine-tuning and multimodal architectures under the **Aegis** project portfolio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beaunix)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/BeauBryanDev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.beau.186@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD133?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/beaunixer)
+[![Location](https://img.shields.io/badge/Bogota,_Colombia-000000?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
 </div>
 
@@ -21,7 +23,8 @@ I'm a self-taught developer based in Colombia, focused on computer vision, deep 
 
 I'm currently:
 - Building **Aegis Scientist**, an expert LLM for industrial boiler systems and CFD simulation, with a curated 40K-record training dataset
-- Leading a 3-person team on a **Samsung Innovation Campus AI Capstone** with a real consulting client (Ítaca), building a multimodal recommendation system (tabular + NLP late fusion)
+- Developing **Aegis MLOps**, a full-stack ML lifecycle on every project: data curation, training, evaluation, ONNX export, and production deployment (FastAPI/Crow + PostgreSQL + AWS EC2)
+- Fine tuning **Aegis CyberSec-Guard**, a LLM for detecting and classifying threats in real-time Logs and Events data for security monitoring SOC.
 - Working through the full ML lifecycle on every project: data curation, training, evaluation, ONNX export, and production deployment (FastAPI/Crow + PostgreSQL + AWS EC2)
 
 I work mainly in Google Colab (GPU-accelerated) and deploy to AWS. Interested in roles where I can keep building this kind of end-to-end AI infrastructure.
@@ -34,15 +37,15 @@ I work mainly in Google Colab (GPU-accelerated) and deploy to AWS. Interested in
 
 **AI / ML**
 <br>
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,sklearn,keras" />
 
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=fastapi,cpp,postgres,mongodb,docker" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,cpp,postgres,mongodb,docker" />
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,css,vite" />
 
 **Infra & Tools**
 <br>
@@ -93,15 +96,21 @@ Full computer vision + NLP pipeline that reads Middle Egyptian hieroglyphs from 
 
 ---
 
+## Recent Activity 
+
+<!--RECENT_ACTIVITY:start--> 
+1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis_art_atelier](https://github.com/BeauBryanDev/aegis_art_atelier)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
+
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=86400" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeauBryanDev&theme=dark&hide_border=false" />
-
 </div>
 
 ---
