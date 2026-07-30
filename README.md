@@ -114,8 +114,8 @@ Full computer vision + NLP pipeline that reads Middle Egyptian hieroglyphs from 
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-indol-mu-58.vercel.app/api?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-indol-mu-58.vercel.app/api/top-langs/?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=86400" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeauBryanDev&theme=dark&hide_border=false" />
 </div>
 
