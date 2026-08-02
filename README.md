@@ -99,11 +99,11 @@ Full computer vision + NLP pipeline that reads Middle Egyptian hieroglyphs from 
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-geo-mind](https://github.com/BeauBryanDev/aegis-geo-mind)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/BeauBryanDev](https://github.com/BeauBryanDev/BeauBryanDev)<br>
-4. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
-5. 🔱 Forked [BeauBryanDev/github-readme-stats](https://github.com/BeauBryanDev/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-geo-mind](https://github.com/BeauBryanDev/aegis-geo-mind)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/BeauBryanDev](https://github.com/BeauBryanDev/BeauBryanDev)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
