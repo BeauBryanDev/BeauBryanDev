@@ -99,8 +99,8 @@ Full computer vision + NLP pipeline that reads Middle Egyptian hieroglyphs from 
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [NVIDIA/skills](https://github.com/NVIDIA/skills)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-geo-mind](https://github.com/BeauBryanDev/aegis-geo-mind)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
+2. ⭐ Starred [NVIDIA/skills](https://github.com/NVIDIA/skills)<br>
 3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-geo-mind](https://github.com/BeauBryanDev/aegis-geo-mind)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-geo-mind](https://github.com/BeauBryanDev/aegis-geo-mind)<br>
 5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-geo-mind](https://github.com/BeauBryanDev/aegis-geo-mind)<br>
