@@ -99,11 +99,11 @@ Full computer vision + NLP pipeline that reads Middle Egyptian hieroglyphs from 
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [biomathcode/react-odontogram](https://github.com/biomathcode/react-odontogram)<br>
-2. ⭐ Starred [martinezsalmeron/dentalpin](https://github.com/martinezsalmeron/dentalpin)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-geo-mind](https://github.com/BeauBryanDev/aegis-geo-mind)<br>
-4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis_art_atelier](https://github.com/BeauBryanDev/aegis_art_atelier)<br>
-5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-geo-mind](https://github.com/BeauBryanDev/aegis-geo-mind)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
+4. ⭐ Starred [biomathcode/react-odontogram](https://github.com/biomathcode/react-odontogram)<br>
+5. ⭐ Starred [martinezsalmeron/dentalpin](https://github.com/martinezsalmeron/dentalpin)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
