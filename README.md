@@ -99,11 +99,11 @@ Full computer vision + NLP pipeline that reads Middle Egyptian hieroglyphs from 
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/colcar](https://github.com/BeauBryanDev/colcar)<br>
-2. 💬 Commented on [#3](https://github.com/BeauBryanDev/oryza_mind/issues/3#issuecomment-5555148974) in [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
-3. 💬 Commented on [#2](https://github.com/BeauBryanDev/oryza_mind/issues/2#issuecomment-5555144696) in [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
-4. ✔️ Closed issue [#2](https://github.com/BeauBryanDev/oryza_mind/issues/2) in [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
-5. ✔️ Closed issue [#1](https://github.com/BeauBryanDev/oryza_mind/issues/1) in [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/colcar](https://github.com/BeauBryanDev/colcar)<br>
+4. 💬 Commented on [#3](https://github.com/BeauBryanDev/oryza_mind/issues/3#issuecomment-5555148974) in [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
+5. 💬 Commented on [#2](https://github.com/BeauBryanDev/oryza_mind/issues/2#issuecomment-5555144696) in [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
