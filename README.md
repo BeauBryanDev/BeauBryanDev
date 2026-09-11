@@ -99,11 +99,11 @@ Full computer vision + NLP pipeline that reads Middle Egyptian hieroglyphs from 
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
+1. ⭐ Starred [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/dentex-ai](https://github.com/BeauBryanDev/dentex-ai)<br>
-4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
-5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/maison-roast](https://github.com/BeauBryanDev/maison-roast)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/spring_bloom](https://github.com/BeauBryanDev/spring_bloom)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/maison-roast](https://github.com/BeauBryanDev/maison-roast)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
