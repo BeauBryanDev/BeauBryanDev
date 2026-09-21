@@ -99,11 +99,11 @@ Full computer vision + NLP pipeline that reads Middle Egyptian hieroglyphs from 
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/colcar](https://github.com/BeauBryanDev/colcar)<br>
-3. 📖 Created new wiki page [FINE‐TUNING](https://github.com/BeauBryanDev/melkov/wiki/FINE%E2%80%90TUNING) in [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
-4. 📖 Created new wiki page [Home](https://github.com/BeauBryanDev/melkov/wiki/Home) in [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
-5. 📖 Created new wiki page [Architecture](https://github.com/BeauBryanDev/melkov/wiki/Architecture) in [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/colcar](https://github.com/BeauBryanDev/colcar)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/dentex-ai](https://github.com/BeauBryanDev/dentex-ai)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/petrologix](https://github.com/BeauBryanDev/petrologix)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
