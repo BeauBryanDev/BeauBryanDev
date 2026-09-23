@@ -99,11 +99,11 @@ Full computer vision + NLP pipeline that reads Middle Egyptian hieroglyphs from 
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ❗️ Opened issue [#2](https://github.com/BeauBryanDev/melkov/issues/2) in [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
-2. ❗️ Opened issue [#1](https://github.com/BeauBryanDev/melkov/issues/1) in [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/SmartCrackLens](https://github.com/BeauBryanDev/SmartCrackLens)<br>
-4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/SmartCrackLens](https://github.com/BeauBryanDev/SmartCrackLens)<br>
-5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/SmartCrackLens](https://github.com/BeauBryanDev/SmartCrackLens)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/RockPulseAPI](https://github.com/BeauBryanDev/RockPulseAPI)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/RockPulseAPI](https://github.com/BeauBryanDev/RockPulseAPI)<br>
+3. 📖 Created new wiki page [Tech‐Stack](https://github.com/BeauBryanDev/melkov/wiki/Tech%E2%80%90Stack) in [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
+4. 📖 Created new wiki page [Deployment](https://github.com/BeauBryanDev/melkov/wiki/Deployment) in [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
+5. 📖 Created new wiki page [Agent‐Orchestration](https://github.com/BeauBryanDev/melkov/wiki/Agent%E2%80%90Orchestration) in [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
