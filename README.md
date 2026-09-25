@@ -99,8 +99,8 @@ Full computer vision + NLP pipeline that reads Middle Egyptian hieroglyphs from 
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/spring_bloom](https://github.com/BeauBryanDev/spring_bloom)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
 3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/spring_bloom](https://github.com/BeauBryanDev/spring_bloom)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/spring_bloom](https://github.com/BeauBryanDev/spring_bloom)<br>
 5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/spring_bloom](https://github.com/BeauBryanDev/spring_bloom)<br>
