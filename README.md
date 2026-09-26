@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hi, I'm Beau David
+# Hi, I'm Bryan David
 
 ### AI / Computer Vision Engineer | Junior AI Software Engineer
 
-Hi There!, This is Bryan David,  I m building production-grade computer vision and deep learning systems — from dataset curation and model training to full-stack deployment.
-Currently exploring LLM fine-tuning and multimodal architectures under the **Aegis** project portfolio.
+Hi There!, This is Bryan David,  I m building production-grade computer vision and deep learning systems — from dataset cleaning and model training to full-stack deployment in cloud VPS and log management.
+I am currently exploring LLM fine-tuning and multi-modal architectures under my own project web portfolio crafted my my own ideas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beaunix)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/BeauBryanDev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.beau.186@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD133?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/beaunixer)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD133?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/beaunix)
 [![Location](https://img.shields.io/badge/Bogota,_Colombia-000000?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
 </div>
@@ -20,6 +20,9 @@ Currently exploring LLM fine-tuning and multimodal architectures under the **Aeg
 ## About Me
 
 I'm a self-taught developer based in Colombia, focused on computer vision, deep learning, and full-stack ML system design. My work centers on a portfolio of independent projects under the **Aegis** brand — real-time detection systems, segmentation models, and anomaly detection pipelines — each shipped as a complete product: trained model, backend API, and frontend dashboard.
+I build projects in Artificial Intelligence, RAG, Agentic tools, Agent Loop and Computer Vision, with hands-on end-to-end experience: ETL pipelines for datasets, training and fine-tuning open-source CV models, QLoRA
+fine-tuning on Qwen2.5 LLMs, and production deployment and DevOps. Built more than seven complete AI systems — real-time detection, segmentation, multimodal models — integrated with REST APIs across backend and frontend,
+deployed on AWS. Complementary experience in Full-Stack development (FastAPI, React, PostgreSQL) on SaaS projects solving specific problems, with solid knowledge of AWS cloud infrastructure and MLOps and Linux Server Management.
 
 I'm currently:
 - Building **Aegis Scientist**, an expert LLM for industrial boiler systems and CFD simulation, with a curated 40K-record training dataset
@@ -69,10 +72,6 @@ Industrial workplace safety monitor combining three independent CV models: brows
 - **Fall detection F1: 0.973** | Recall: 0.989 (deployment threshold tuned to 0.65 to reduce false alarms)
 - Stack: PyTorch, EfficientNet-Lite0, YOLOv8/v11, FastAPI, PostgreSQL
 
-### [RiverWatch (Aegis-River-Sentinel)](https://github.com/BeauBryanDev/aegis-river-sentinel)
-River anomaly detection and surface flow monitoring from fixed-camera footage. Fine-tuned SegFormer-B2 segments the water surface; RAFT-Small computes optical flow restricted to the water ROI; a sliding-window Z-score flags flash floods and abnormal velocity spikes. Validated on real footage from Andean rivers in Santander, Colombia.
-- Multi-dataset segmentation training (RIWA + Parepare Flood, partial-label supervision)
-- Stack: PyTorch, SegFormer-B2, RAFT, Celery + Redis, FastAPI, PostgreSQL
 
 ### [RockPulseAPI](https://github.com/BeauBryanDev/RockPulseAPI)
 B2B computer vision service for mining conveyor belts: detects and measures rock fragments in real time, computing sphericity, volume, and a custom Fragment Index per rock, plus D30/D50/D80 granulometric curves. Built entirely in C++ for high-throughput industrial inference.
@@ -84,15 +83,32 @@ End-to-end structural crack detection and severity analysis for concrete, metal,
 - Trained on ~13,000 images, full MLOps pipeline (training → ONNX export → deployment)
 - Stack: PyTorch, YOLOv8-seg, FastAPI, MongoDB, React + TypeScript
 
-### [Aegis-Traffic-Sentinel](https://github.com/BeauBryanDev/aegis-traffic-sentinel)
-Car crash detection for a smart-city road safety application. MobileNetV2 + temporal attention MLP, trained on ~6,100 videos combining three public crash datasets with crash-centered and biased temporal sampling strategies. Backend inference only for now — frontend is planned next.
-- **Test set: F1 0.983 | Recall 1.000** (zero missed crashes on held-out test set)
-- Stack: PyTorch, MobileNetV2, ONNX Runtime, FastAPI, PostgreSQL (AWS RDS)
 
-### [SphinxEyes](https://github.com/BeauBryanDev/Sphinx)
+### [SphinxEyes](https://github.com/BeauBryanDev/Thoth-Sphinx)
 Full computer vision + NLP pipeline that reads Middle Egyptian hieroglyphs from raw photographs: YOLOv11-Large glyph detection, geometric reading-order assembly, a Viterbi/bigram language model for sign correction, and GPT-4o for scholarly transliteration.
 - **mAP50: 0.884** (V4) across 150 Gardiner sign classes
 - Stack: PyTorch, YOLOv11, FastAPI, PostgreSQL, GPT-4o, React + TypeScript
+
+### [Petrologix](https://github.com/BeauBryanDev/petrologix)
+Petroleum geology agent with three tools: XGBoost classification over well logs, hybrid RAG over 45 geology papers (Qdrant Cloud), and porosity calculation — orchestrated by Claude Sonnet 5 as the reasoning engine. No computer vision in this pipeline.
+- Stack: XGBoost, RAG, Qdrant, Claude Sonnet 5, FastAPI
+
+### [DentexAI](https://github.com/BeauBryanDev/dentex-ai)
+Dental assistant agent with four agent-callable tools: medical RAG, clinic geolocation, WHO oral health statistics, and a video recommender, backed by two YOLOv11 vision models.
+- **FDI numbering: mAP50 0.99** | Lesion detection: mAP50 0.617
+- Stack: RAG, FastAPI, PostgreSQL, PubMedBERT, YOLOv11
+
+### [ColCar](https://github.com/BeauBryanDev/colcar)
+Vehicle inspection agent with a regulatory-compliance RAG engine (Colombian RTM) and automated pricing, powered by three YOLO models for end-to-end visual inspection (damage, vehicle parts, tire defects).
+- Stack: RAG, FastAPI, PostgreSQL, YOLOv8/v11
+
+### [Maison-Roast / Basil](https://github.com/BeauBryanDev/maison-roast)
+Vintage-style coffee shop e-commerce app (Django), revived with a conversational customer-service agent (Claude Haiku) and a 41-class menu classifier for visual product recognition.
+- Stack: Claude Haiku, Django, EfficientNetV2, TensorFlow
+
+### [Oryza-Mind](https://github.com/BeauBryanDev/oryza_mind)
+Rice disease diagnosis system with backend on AWS EC2 and frontend on Vercel, using instance segmentation as the foundation of an agricultural recommendation pipeline.
+- Stack: FastAPI, PostgreSQL, AWS EC2, Vercel, YOLOv11
 
 ---
 
