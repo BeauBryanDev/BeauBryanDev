@@ -115,6 +115,12 @@ Rice disease diagnosis system with backend on AWS EC2 and frontend on Vercel, us
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/dentex-ai](https://github.com/BeauBryanDev/dentex-ai)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov](https://github.com/BeauBryanDev/melkov)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/AppleDetection](https://github.com/BeauBryanDev/AppleDetection)<br>
+<!--RECENT_ACTIVITY:end-->
 1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
 3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
@@ -124,8 +130,8 @@ Rice disease diagnosis system with backend on AWS EC2 and frontend on Vercel, us
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-indol-mu-58.vercel.app/api?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-indol-mu-58.vercel.app/api/top-langs/?username=BeauBryanDev&theme=dark&hide_border=false&include_all_commits=true&layout=compact&cache_seconds=86400" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeauBryanDev&theme=dark&hide_border=false" />
 </div>
 
