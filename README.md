@@ -115,8 +115,8 @@ Rice disease diagnosis system with backend on AWS EC2 and frontend on Vercel, us
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Agithar](https://github.com/BeauBryanDev/Agithar)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Agithar](https://github.com/BeauBryanDev/Agithar)<br>
 3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
 5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
