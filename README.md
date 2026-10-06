@@ -116,9 +116,9 @@ Rice disease diagnosis system with backend on AWS EC2 and frontend on Vercel, us
 
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Agithar](https://github.com/BeauBryanDev/Agithar)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Agithar](https://github.com/BeauBryanDev/Agithar)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
-4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/melkov-the-scryer](https://github.com/BeauBryanDev/melkov-the-scryer)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Agithar](https://github.com/BeauBryanDev/Agithar)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Agithar](https://github.com/BeauBryanDev/Agithar)<br>
 5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Agithar](https://github.com/BeauBryanDev/Agithar)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
