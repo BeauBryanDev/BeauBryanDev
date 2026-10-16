@@ -117,7 +117,7 @@ Rice disease diagnosis system with backend on AWS EC2 and frontend on Vercel, us
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/iron-oak](https://github.com/BeauBryanDev/iron-oak)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/iron-oak](https://github.com/BeauBryanDev/iron-oak)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/aegis-poultry-vision](https://github.com/BeauBryanDev/aegis-poultry-vision)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/iron-oak](https://github.com/BeauBryanDev/iron-oak)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/iron-oak](https://github.com/BeauBryanDev/iron-oak)<br>
 5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/iron-oak](https://github.com/BeauBryanDev/iron-oak)<br>
 <!--RECENT_ACTIVITY:end-->
