@@ -115,9 +115,9 @@ Rice disease diagnosis system with backend on AWS EC2 and frontend on Vercel, us
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Agithar](https://github.com/BeauBryanDev/Agithar)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/crocol](https://github.com/BeauBryanDev/crocol)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/oryza_mind](https://github.com/BeauBryanDev/oryza_mind)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/crocol](https://github.com/BeauBryanDev/crocol)<br>
 5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/crocol](https://github.com/BeauBryanDev/crocol)<br>
 <!--RECENT_ACTIVITY:end-->
