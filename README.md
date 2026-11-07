@@ -115,10 +115,10 @@ Rice disease diagnosis system with backend on AWS EC2 and frontend on Vercel, us
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ✔️ Closed issue [#5](https://github.com/BeauBryanDev/Thoth-Sphinx/issues/5) in [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
-2. ✔️ Closed issue [#4](https://github.com/BeauBryanDev/Thoth-Sphinx/issues/4) in [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
-3. 💪 Opened PR [#6](undefined) in [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
-4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
+2. ✔️ Closed issue [#5](https://github.com/BeauBryanDev/Thoth-Sphinx/issues/5) in [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
+3. ✔️ Closed issue [#4](https://github.com/BeauBryanDev/Thoth-Sphinx/issues/4) in [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
+4. 💪 Opened PR [#6](undefined) in [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
 5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
