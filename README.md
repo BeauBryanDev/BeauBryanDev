@@ -117,9 +117,9 @@ Rice disease diagnosis system with backend on AWS EC2 and frontend on Vercel, us
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
-3. ✔️ Closed issue [#5](https://github.com/BeauBryanDev/Thoth-Sphinx/issues/5) in [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
-4. ✔️ Closed issue [#4](https://github.com/BeauBryanDev/Thoth-Sphinx/issues/4) in [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
-5. 💪 Opened PR [#6](undefined) in [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
+4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
