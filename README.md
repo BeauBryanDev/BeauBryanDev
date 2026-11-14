@@ -115,8 +115,8 @@ Rice disease diagnosis system with backend on AWS EC2 and frontend on Vercel, us
 ## Recent Activity 
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
+1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
+2. ⭐ Starred [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)<br>
 3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
 5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Thoth-Sphinx](https://github.com/BeauBryanDev/Thoth-Sphinx)<br>
