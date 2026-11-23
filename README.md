@@ -116,10 +116,10 @@ Rice disease diagnosis system with backend on AWS EC2 and frontend on Vercel, us
 
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/spring_bloom](https://github.com/BeauBryanDev/spring_bloom)<br>
-2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/crocol](https://github.com/BeauBryanDev/crocol)<br>
-3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/crocol](https://github.com/BeauBryanDev/crocol)<br>
+2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/spring_bloom](https://github.com/BeauBryanDev/spring_bloom)<br>
+3. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/spring_bloom](https://github.com/BeauBryanDev/spring_bloom)<br>
 4. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/crocol](https://github.com/BeauBryanDev/crocol)<br>
-5. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)<br>
+5. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/crocol](https://github.com/BeauBryanDev/crocol)<br>
 <!--RECENT_ACTIVITY:end-->
 1. ⭐ Starred [gauravsdeshmukh/FlowPy](https://github.com/gauravsdeshmukh/FlowPy)<br>
 2. ⬆️ Pushed undefined commit(s) to [BeauBryanDev/Itaca_capstone_project](https://github.com/BeauBryanDev/Itaca_capstone_project)<br>
